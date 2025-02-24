@@ -19,10 +19,10 @@ Para el proyecto y la creación de carpetas, se utilizaron los números 449 y 44
 
 ### Las tecnologías que se utilizaron fueron: 
 
--JAVA 1.8 
--Maven 3.5.3 
--Github 
--IDEA de Intellij 
+- JAVA 1.8 
+- Maven 3.5.3 
+- Github 
+- IDEA de Intellij 
 
  ### Supuestos: 
 
