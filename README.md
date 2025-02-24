@@ -24,6 +24,6 @@ Para el proyecto y la creación de carpetas, se utilizaron los números 449 y 44
 -Github 
 -IDEA de Intellij 
 
- ###Supuestos: 
+ ### Supuestos: 
 
  Para agilizar el desarrollo y evitar errores de conversión de tipos de datos, se considera que todos los datos en la base de datos se almacenan como varchar, para simplificar las consultas y evitar problemas de compatibilidad.  
